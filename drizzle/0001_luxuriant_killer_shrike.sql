@@ -1,0 +1,1 @@
+ALTER TABLE `transactions` ADD `fee_deducted` integer DEFAULT false NOT NULL;

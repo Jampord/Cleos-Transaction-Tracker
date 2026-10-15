@@ -1,0 +1,1 @@
+ALTER TABLE `payments` ADD `method` text DEFAULT 'cash' NOT NULL;

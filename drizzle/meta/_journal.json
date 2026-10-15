@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1791794830498,
+      "tag": "0000_futuristic_warbound",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1791852249154,
+      "tag": "0001_luxuriant_killer_shrike",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1791853272342,
+      "tag": "0002_happy_annihilus",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1791854764708,
+      "tag": "0003_military_skreet",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1791871075622,
+      "tag": "0004_demonic_scorpion",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1791872344835,
+      "tag": "0005_violet_anita_blake",
+      "breakpoints": true
+    }
+  ]
+}
